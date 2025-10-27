@@ -29,6 +29,8 @@ section article{
 }
 footer{
     margin: 25rem 0;
-    position: relative;
+}
+footer p{
     text-align: center;
 }
+
