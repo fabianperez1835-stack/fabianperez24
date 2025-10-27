@@ -28,6 +28,7 @@ section article{
     
 }
 footer{
-    margin: 15rem 0;
-    position: absolute;
+    margin: 25rem 0;
+    position: relative;
+    text-align: center;
 }
