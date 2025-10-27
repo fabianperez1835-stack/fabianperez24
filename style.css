@@ -27,3 +27,7 @@ section article{
     padding: 0.25rem 0;
     
 }
+footer{
+    margin: 15rem 0;
+    position: absolute;
+}
